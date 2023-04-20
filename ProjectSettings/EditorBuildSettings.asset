@@ -5,7 +5,52 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 688110bdd231c1c438472bec3d64874d
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 74fa1c0bf603e014bb72903eb1c9edd9
+  - enabled: 1
+    path: Assets/Scenes/level3Actual.unity
+    guid: cf259c7307ab4ba498e8ec8b802db8ed
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: 47815c44878be37498ab2e810289e971
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: 981c632853cf6cf49ab8b0abf45fcadf
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: 632c5f4c29e9b4643bcc4450c094c3fa
+  - enabled: 1
+    path: Assets/Scenes/level7.unity
+    guid: 538c67d835c946345ae2249dce35b107
+  - enabled: 1
+    path: Assets/Scenes/level8.unity
+    guid: a09fa4e2fb184b54cbe85095e0ae1211
+  - enabled: 1
+    path: Assets/Scenes/level9.unity
+    guid: addf7e8287a42fb4c82e9d80357f8e7f
+  - enabled: 1
+    path: Assets/level10.unity
+    guid: dc2c6d5359c481c49913f25ae6035a87
+  - enabled: 1
+    path: Assets/level11.unity
+    guid: 400d7908e626273428e08d57f2d1b651
+  - enabled: 1
+    path: Assets/Scenes/level12.unity
+    guid: 84a4d4064b9117d40b71bc8d973be277
+  - enabled: 1
+    path: Assets/Scenes/startText.unity
+    guid: 9b7485787c0660544b9d48b0bddb9f2f
+  - enabled: 1
+    path: Assets/Scenes/outroText.unity
+    guid: d8044e23487120443bc04e4715663756
   m_configObjects: {}
